@@ -1,2 +1,2 @@
-# Modelling-and-visualisation-techniques-in-Python
-A repository to display modelling and visualisation techniques in Python.
+# Just for fun
+A repo for analysis & visualisation practice in Python.
